@@ -41,10 +41,3 @@ San Joaquin County is facing challenges in balancing sustainable transportation 
 - Replica: Trip-level commute data
 - StreetLight: Transportation behavior and VMT data
 
-## 📜 Authors
-
-This project was completed as part of the UC Berkeley Data Science Capstone.
-
-## 📄 License
-
-This repository is for academic and research use. Please cite appropriately if reused.
