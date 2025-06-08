@@ -13,11 +13,6 @@ San Joaquin County is facing challenges in balancing sustainable transportation 
 - Transportation equity gaps
 - GHG emissions by zip code and vehicle type
 
-## 📁 Project Structure
-
-- `SJCOG_Urban footprint.ipynb`: Jupyter Notebook for zone-level analysis from UrbanFootprint
-- `Capstone_Project_Report.pdf`: Full written report including findings, maps, and policy recommendations
-- `Customer Churn Analysis...ipynb`: (Legacy notebook not directly related to this project)
 
 ## 🔍 Key Findings
 
